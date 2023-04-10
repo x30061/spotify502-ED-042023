@@ -1,0 +1,38 @@
+<Eliminar>
+    <Lista>
+        <id>3</id>
+        <canciones>
+            <pos>3</pos>
+            <pos>2</pos>
+        </canciones>
+    </Lista>
+    <Lista>
+        <id>2</id>
+        <canciones>
+            <pos>5</pos>
+        </canciones>
+    </Lista>
+
+    <Lista>
+        <id>99</id>
+    </Lista>
+    <Lista>
+        <Nombre>MODERNO</Nombre>
+    </Lista>
+    
+    <cancion>
+        <id>33</id>
+    </cancion>
+    <cancion>
+        <id>15</id>
+    </cancion>
+    <cancion>
+        <Nombre>Palabra De Rey</Nombre>
+    </cancion>
+    <cancion>
+        <Nombre>El Chofer</Nombre>
+    </cancion>
+    <cancion>
+        <Nombre>No Dejes Que</Nombre>
+    </cancion>
+</Eliminar>

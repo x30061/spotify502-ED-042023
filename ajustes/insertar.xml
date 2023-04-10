@@ -1,0 +1,167 @@
+<Insertar>
+    <cancion>
+        <Nombre>El Rey</Nombre>
+        <path>musica/02 El Rey.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>De Que Manera Te Olvido</Nombre>
+        <path>musica/06 De Que Manera Te Olvido.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Para Siempre</Nombre>
+        <path>musica/06 Para Siempre.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Que De Raro Tiene</Nombre>
+        <path>musica/07 Que De Raro Tiene.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Volver Volver</Nombre>
+        <path>musica/07 Volver Volver.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Millon De Primaveras</Nombre>
+        <path>musica/10 Millon De Primaveras.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Estatua De Marfil</Nombre>
+        <path>musica/11 Estatua De Marfil.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>El Chofer</Nombre>
+        <path>musica/12 El Chofer.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Las Llaves De Mi Alma</Nombre>
+        <path>musica/12 Las Llaves De Mi Alma.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Por Tu Maldito Amor</Nombre>
+        <path>musica/13 Por Tu Maldito Amor.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Palabra De Rey</Nombre>
+        <path>musica/14 Palabra De Rey.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Bohemio De Afición</Nombre>
+        <path>musica/15 Bohemio De Afición.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>La Diferencia</Nombre>
+        <path>musica/15 La Diferencia.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Mujeres Divinas</Nombre>
+        <path>musica/16 Mujeres Divinas.m4a</path>
+        <Pos>2</Pos>
+    </cancion>
+    <cancion>
+        <Nombre>Sublime Mujer</Nombre>
+        <path>musica/16 Sublime Mujer.m4a</path>
+        <Pos>1</Pos>
+    </cancion>
+    <cancion>
+        <Nombre>Hermoso Cariño</Nombre>
+        <path>musica/17 Hermoso Cariño.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Aca Entre Nos</Nombre>
+        <path>musica/05 Aca Entre Nos.m4a</path>
+        <Pos>3</Pos>
+    </cancion>
+    <Lista>
+        <Nombre>MEJORES RANCHERAS</Nombre>
+        <Descripcion>las mejores del chente</Descripcion>
+        <Canciones>
+            <pos>1</pos>
+            <pos>2</pos>
+            <pos>3</pos>
+        </Canciones>
+    </Lista>
+    <cancion>
+        <Nombre>Lamento Boliviano</Nombre>
+        <path>musica/01 Lamento Boliviano.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Entre Dos Tierras</Nombre>
+        <path>musica/1-01 Entre Dos Tierras.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>La Leyenda Del Hada y El Mago</Nombre>
+        <path>musica/1-01 La Leyenda Del Hada y El Mago.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Mujer Amante</Nombre>
+        <path>musica/1-02 Mujer Amante.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Maldito Duende</Nombre>
+        <path>musica/1-03 Maldito Duende.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>La Chispa Adecuada</Nombre>
+        <path>musica/1-10 La Chispa Adecuada (Bendecida 3.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Ni un Centavo</Nombre>
+        <path>musica/02 Ni un Centavo.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Fiesta Pagana</Nombre>
+        <path>musica/2-01 Fiesta Pagana.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Héroe de Leyenda</Nombre>
+        <path>musica/2-02 Héroe de Leyenda.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>La Celula Que Explota</Nombre>
+        <path>musica/03 La Celula Que Explota.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Te Lo Pido Por Favor</Nombre>
+        <path>musica/04 Te Lo Pido Por Favor.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>El Ultimo Trago</Nombre>
+        <path>musica/05 El Ultimo Trago.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Persiana Americana</Nombre>
+        <path>musica/07 Persiana Americana.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Te Extra¤o</Nombre>
+        <path>musica/08 Te Extra¤o.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Lobo Hombre en Paris</Nombre>
+        <path>musica/09 Lobo Hombre en Paris.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>No Dejes Que</Nombre>
+        <path>musica/09 No Dejes Que.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>En la Ciudad de la Furia</Nombre>
+        <path>musica/11 En la Ciudad de la Furia.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>De Música Ligera</Nombre>
+        <path>musica/12 De Música Ligera.m4a</path>
+    </cancion>
+    <cancion>
+        <Nombre>Molinos de Viento</Nombre>
+        <path>musica/Molinos de Viento.m4a</path>
+    </cancion>
+    <Lista>
+        <Nombre>MEJORES DEL ROCK</Nombre>
+        <Descripcion>mejores del rock en espaniol</Descripcion>
+        <Canciones>
+            <pos>21</pos>
+            <pos>24</pos>
+            <pos>29</pos>
+        </Canciones>
+    </Lista>
+</Insertar>
